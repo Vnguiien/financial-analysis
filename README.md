@@ -61,7 +61,7 @@ Cung cấp khả năng lưu trữ dữ liệu lịch sử vào SQLite, phục v�
 </p>
 
 <p align="center">
-<img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/z7134376209446_be076197bc19129432d4eacfd10f12c4.jpg g" width="500">
+<img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/z7134376209446_be076197bc19129432d4eacfd10f12c4.jpg" width="500">
     
 </p>
 <p align="center">
@@ -147,5 +147,6 @@ Email: nvn60211@gmail.com.
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
 ---
+
 
 
