@@ -53,55 +53,44 @@ Cung cấp khả năng lưu trữ dữ liệu lịch sử vào SQLite, phục v�
 ## 🚀 3. Hình ảnh các chức năng
 
 <p align="center">
-<img src="https://github.com/Tank97king/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/blob/main/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/Nh%E1%BA%ADn%20di%E1%BB%87n%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20giao%20th%C3%B4ng/%E1%BA%A2nh/Screenshot%202025-10-15%20151537.png?raw=true " alt="Chức năng đăng nhập" width="700"/>
+<img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/image.png" width="500">
 </p>
 
 <p align="center">
-  <em>Hình 1: Giao diện trang chủ  </em>
+  <em>Hình 1: Tổng quan dữ liệu  </em>
 </p>
 
 <p align="center">
-<img src="https://github.com/Tank97king/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/blob/main/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/Nh%E1%BA%ADn%20di%E1%BB%87n%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20giao%20th%C3%B4ng/%E1%BA%A2nh/Screenshot%202025-10-06%20190231.png?raw=true" alt="Chức năng đăng ký" width="700"/>
+<img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/z7134376209446_be076197bc19129432d4eacfd10f12c4.jpg g" width="500">
+    
 </p>
 <p align="center">
-  <em> Hình 2: Chức năng nhận diện bằng video </em>
+  <em> Hình 2: Phân tích tài chính </em>
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/Tank97king/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/blob/main/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/Nh%E1%BA%ADn%20di%E1%BB%87n%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20giao%20th%C3%B4ng/%E1%BA%A2nh/Screenshot%202025-10-15%20151730.png?raw=true" alt="Hệ thống thông báo tham gia thành công" width="800"/>
+ <img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/z7134377254232_de615f920cf525b3042996622751dbbb.jpg" width="500">
 </p>
 <p align="center">
-  <em> Hình 3: Chức năng nhận diện bằng ảnh .</em>
+  <em> Hình 3: Xu hướng theo thời gian .</em>
 </p>
 
+<p align="center"> 
+
+ <img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/z7134377956202_122d45f952416eb75113d29048687206.jpg" width="500">
+</p>
 <p align="center">
-  <img src="https://github.com/Tank97king/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/blob/main/Nhan_dien_phuong_tien_giao_thong_va_bien_so_xe/Nh%E1%BA%ADn%20di%E1%BB%87n%20ph%C6%B0%C6%A1ng%20ti%E1%BB%87n%20giao%20th%C3%B4ng/%E1%BA%A2nh/Screenshot%202025-10-15%20151803.png?raw=true" alt="Giao diện hai người chat với nhau" width="800"/>
+  <em> Hình 4: Phân tích rủi do doang nghiệp </em>
+</p>
+
+<p align="center"> 
+
+ <img src="https://github.com/Vnguiien/financial-analysis/blob/main/docs/z7134380996297_1c17edc59fcd18ea0409268f30966ee4.jpg" width="500">
 </p>
 <p align="center">
-  <em> Hình 4: Chức năng nhận diện bằng camera </em>
+  <em> Hình 5: Biểu đò tài chính </em>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
 
@@ -158,4 +147,5 @@ Email: nvn60211@gmail.com.
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
 ---
+
 
